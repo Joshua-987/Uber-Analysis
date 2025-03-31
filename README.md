@@ -12,9 +12,9 @@
 Analyze and build reports around booking data, to provide KPI and performance reports, and to uncover deeper insights from the dataset.
 
 ### 1. Data Exploration
-- Broke analysis down into overview analysis and time analysis.
+- Broke analysis down into **overview analysis** and **time analysis**.
 - Identified key metrics and attributes for each analysis section:
-Atrributes from trip details such as: Total bookings, Total Booking Value and Total Trip Distance
+Atrributes from trip details such as: *Total bookings, Total Booking Value and Total Trip Distance*
 
 ### 2. Data Preparation
 
@@ -32,8 +32,8 @@ Atrributes from trip details such as: Total bookings, Total Booking Value and To
 
 <img src="https://github.com/Joshua-987/Uber-Analysis/blob/main/Data%20Model.JPG" alt="Data Model" width="1000"/>
 
-### 4. Analytics Use Cases:
-Artist Analysis: Analyze top-performing artists by counting their appearances in the playlist, and explore trends over time.
-Album Analysis: Track the most popular albums and how often songs from each album appear in the playlist.
-Song Popularity: Measure song popularity through attributes like the number of streams, artist performance, or song genre.
-Time Series Analysis: Investigate trends in song popularity by analyzing data over different time periods (e.g., weekly, monthly).
+### 4. Analytics Use Cases  
+
+- **Best Time Analysis** – Use the heatmap on the time analysis page to identify peak and off-peak hours throughout the week. Apply the city filter to analyze trends in specific locations.  
+- **KPI Analysis** – Track how key performance indicators (KPIs) such as averages and totals vary across different cities.  
+- **Detailed Analysis** – Drill down into visuals to access the details page for deeper insights, such as examining total passenger counts for specific data points.  
