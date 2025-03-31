@@ -13,8 +13,8 @@ Analyze and build reports around booking data, to provide KPI and performance re
 
 ### 1. Data Exploration
 - Broke analysis down into **overview analysis** and **time analysis**.
-- Identified key metrics and attributes for each analysis section:
-Atrributes from trip details such as: *Total bookings, Total Booking Value and Total Trip Distance*
+- Identified key metrics and attributes to use for analysis:
+    - Atrributes from trip details such as: *Total bookings, Total Booking Value and Total Trip Distance*
 
 ### 2. Data Preparation
 
