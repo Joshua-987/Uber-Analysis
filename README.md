@@ -13,7 +13,7 @@ Atrributes from trip details such as: Total bookings, Total Booking Value and To
 - **In Power Query**
   - Added relationships between the *trip details* and *location table*. I also used a inactive relationship since drop off location ID and pickup location ID both needed the location table.
   - Created a column in power query that output whether the pickup time was day or night for analysis.
-- **In Power BI
+- **In Power BI**
   -  Created measures for each of the KPI's such as *avg trip distance* and stored them in folders for organisation.
   -  Built paramter tables for dynamic analysis - Created a dynamic measure to create dynamic titles and use to dynamically switch between different fields within visuals such as *Total bookings* and *Total Trip Distance*.
 
