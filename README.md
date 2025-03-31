@@ -32,4 +32,8 @@ Atrributes from trip details such as: Total bookings, Total Booking Value and To
 
 <img src="https://github.com/Joshua-987/Uber-Analysis/blob/main/Data%20Model.JPG" alt="Data Model" width="1000"/>
 
-### 4. Logical Considerations While Building the Dashboard
+### 4. Analytics Use Cases:
+Artist Analysis: Analyze top-performing artists by counting their appearances in the playlist, and explore trends over time.
+Album Analysis: Track the most popular albums and how often songs from each album appear in the playlist.
+Song Popularity: Measure song popularity through attributes like the number of streams, artist performance, or song genre.
+Time Series Analysis: Investigate trends in song popularity by analyzing data over different time periods (e.g., weekly, monthly).
